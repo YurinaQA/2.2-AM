@@ -110,7 +110,7 @@ class ChangeTextTest {
         assertEquals(result, textToSet)
     }
 
-}
+    }
 
 
 
